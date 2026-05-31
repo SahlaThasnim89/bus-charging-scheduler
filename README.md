@@ -22,7 +22,7 @@ Built with Python and Streamlit.
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/bus-charging-scheduler.git
+git clone https://github.com/SahlaThasnim89/bus-charging-scheduler.git
 cd bus-charging-scheduler
 ```
 
